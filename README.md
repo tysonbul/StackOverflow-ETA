@@ -2,6 +2,8 @@
 
 This is the replication package for the paper written on estimating StackOverflow  response times based on a questions tags. The following are the steps required to replicate the methodology.
 
+ETA: Estimated Time of Answer Predicting Response Time in Stack Overflow - By: Jeffrey Goderie et al
+
 ## Data Collection
 
 Use these queries for the desired time range in which you wish to collect data. Some may require that you gather your data in chunks as the Data Explorer only allows 50,000 rows to be returned at a time.
